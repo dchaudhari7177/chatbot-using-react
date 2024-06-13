@@ -20,7 +20,7 @@ class ActionProvider {
     }
 
     btn() {
-        const message = this.createChatBotMessage(<button>say bye</button>);
+        const message = this.createChatBotMessage("Say Bye");
         this.setState((prev) => ({
             ...prev,
             messages: [...prev.messages, message],
@@ -28,7 +28,7 @@ class ActionProvider {
     }
     
     clr() {
-        const message = this.createChatBotMessage("Thank YOu");
+        const message = this.createChatBotMessage("Thank You, see You Again");
         this.setState((prev) => ({
             ...prev,
             messages: [message,],
