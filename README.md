@@ -57,7 +57,7 @@ This chatbot template provides a basic framework with a limited number of respon
 
 ## Contact
 
-Your Name - [LinkedIn](https://www.linkedin.com/in/dipak-chaudhari-813669248) - dipakchaudhari171@gmail.com
+Dipak R Chaudhari - [LinkedIn](https://www.linkedin.com/in/dipak-chaudhari-813669248) - dipakchaudhari171@gmail.com
 
 Project Link: [https://github.com/dchaudhari7177/chatbot-using-react.git](https://github.com/dchaudhari7177/chatbot-using-react.git)
 
