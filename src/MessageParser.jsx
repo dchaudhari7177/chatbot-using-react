@@ -12,6 +12,12 @@ class MessageParser {
         if(lowerCaseMessage.includes("bye")) {
             this.actionProvider.greet1();
         }
+        if(lowerCaseMessage.includes("meet")){
+            this.actionProvider.btn();
+        }
+        if(lowerCaseMessage.includes("clear")){
+            this.actionProvider.clr();
+        }
     }
 }
 
