@@ -14,7 +14,7 @@ This project implements a chatbot using React and [react-chatbot-kit](https://gi
 
 ## Screenshots
 
-![Screenshot 1](![alt text](<Screenshot 2024-06-13 080400.png>))
+(![alt text](<Screenshot 2024-06-13 080400.png>))
 
 ## Getting Started
 
