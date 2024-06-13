@@ -55,10 +55,6 @@ Configure the chatbot by modifying `config.js`:
 
 This chatbot template provides a basic framework with a limited number of responses. It's designed to be easily customizable and extendable to suit various applications. You can enhance its functionality by adding more responses, integrating APIs, or modifying its behavior as your needs.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Contact
 
 Your Name - [LinkedIn](https://www.linkedin.com/in/dipak-chaudhari-813669248) - dipakchaudhari171@gmail.com
